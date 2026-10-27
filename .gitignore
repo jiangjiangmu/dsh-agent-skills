@@ -1,0 +1,14 @@
+# 状态层：体检结果可重建，不入库
+_shared/health-*.json
+
+# Python / 环境
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
